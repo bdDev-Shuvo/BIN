@@ -1,0 +1,48 @@
+What is a bin ?
+
+:point_right: Bin is bank first 6 digits plus some numbers you add them with basics not random 
+
+What is CCN AND CVV/CVC?
+
+:point_right: CCN=card number and expiry date are correct and CVC incorrect 
+
+CCNsecurity is system that can accept cards ccn lives 
+
+Aliexpress and Amazon has CCN security 
+And many sites 
+===============
+CVV =card number and expiry date and CVC/CVV number are all correct 
+Cvv lives can be used also in Ali to hit high things 
+And all stores 
+Cvv security require card correct info 
+===========
+Banggood is cvv 
+EBay is cvv 
+Vova is cvv 
+DX.com is cvv 
+Wish.com is cvv 
+And many many 
+============
+
+What is CC Checker?
+
+its site you make which allows you to check cards if they are lives.
+
+There is two different checker 
+CCN checker 
+CVV checker 
+===========
+
+What is OTP?
+
+its page come when that bin have high security which require sending code to phone to pass payment 
+=============
+VBV= verified by visa 
+
+NON VBV = not verified by visa
+
+VBV bins always have otp but NON VBV Doesn't required OTP
+===============
+HB Bin= High Balance Bin (Can hit more priced items/ have high balance on card)
+
+LB Bin= Low Balance Bin (Only have low amount of money in the card)
